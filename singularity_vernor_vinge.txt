@@ -1,0 +1,71 @@
+abstract : 
+
+Vernor Vinge claims superhuman intelligence will be created somewhere within 2005-2030 period
+and that shortly after the human era will be ended. 
+Will it happen ? If it is unavoidable , can this be the end of humans ? Are the solutions of
+Vernor Vinage viable ? These are to be investigated in the following . 
+
+
+
+<> Singularity - definition and Vernor's vision of it <>
+
+This term has been used in math to describe an asymptote-like situation where normal rules no longer apply. 
+It’s been used in physics to describe a phenomenon like an infinitely small, dense black hole or the point we were all squished into right before the Big Bang. 
+Again, situations where the usual rules don’t apply.
+
+In Vernor's essay he applied the term to the moment in the future when our technology’s intelligence exceeds our own , a starting point to human downfall as rules
+no longer apply . Vernor envisions this moment happening somewhere between 2005 and 2030 . 
+
+In my opinion , he is right - we will reach that point in time : the singularity - , but I am not so sure if the time period. We will have to look at some 
+concrete data first : 
+
+Firstly , we must think of what singularity needs to happen : an AI (an ASI to be more precise, we'll go into details later) and hardware powerful enough
+ to support that AI . This being said , let's take a look at what hardware is available now , and what is it's growth rate .
+ 
+We will discuss what Ray Kurzweil calls "the Intuitive Linear View versus the Historical Exponential View" :
+"Most long range forecasts of technical feasibility in future time periods dramatically underestimate the power of future technology because they are based on 
+what I call the <<intuitive linear>> view of technological progress rather than the <<historical exponential view>> " . Based on these observations he formulates
+a law called The Law of Accelerating Returns and which explains the pattern of human progress moving quicker and quicker as time goes on . 
+This happens because more advanced societies have the ability to progress at a faster rate than less advanced societies .
+So when we think of predicting future human progress , we needn't take into account past growth rate , nor present growth rate ; we must first think of how the
+growth rate will develop in time (exponential growth) and take that into account ; only then we will have a correct prediction of human progress .
+
+ 
+Now we will try and see brain's raw computing capacity as the total calculations per second (cps) in order to compare it to hardware . 
+Ray Kurzweil came up with a way of measuring the cps of the human brain (by taking someone’s estimate for the cps of one structure and that 
+structure’s weight compared to that of the whole brain and then multiplying proportionally to get an estimate for the total) and the result was around
+10^16 cps. 
+Currently , some supercomputers have actually beaten that number - 3-5 times more cps - but they cost too much (~400 million$) ; that is not applicable 
+to wide usage, not even industrial usage yet .
+
+If we take a 1000$ computer (that is feasible for industrial and even wide usage) , right now we are beating the mouse brain , but we are at a thousandth 
+of human level . Even though it sounds like we are far behind , having in mind Moore's Law , we could estimate that we could get an affordable computer
+to match human level by 2025 . Now that we have hardware figured out , let's talk more about AIs .
+
+An AI (contrary to popular belief) is just a "brain" - doesn't have anything to do with a robot . There are 3 major AI caliber categories : 
+- caliber 1 - Artificial Narrow Intelligence (ANI) - refered to as "weak AI" in Vernor's essay - AI that specializes in one area (we use these in our everyday life
+			  all the time - our phones are an ANI factory , cars have many ANI systems , even Google Translate is an ANI ).
+- caliber 2 - Artificial General Intelligence (AGI) - refered to as "strong AI" - this is human-level AI - capable of a 
+			  " very general mental capability that, among other things, involves the ability to reason, plan, solve problems, think abstractly, comprehend complex 
+			  ideas, learn quickly, and learn from experience " [as Linda Gottfredson describes human intelligence]
+- caliber 3 - Artificial Superintelligence (ASI) - superhuman intelligence - smarter than every human , in every area .
+
+So far , we have reached ANI(caliber 1) with lots of success , and we're trying to get to caliber 2 - AGI . 
+Donald Knuth says : “AI has by now succeeded in doing essentially everything that requires ‘thinking’ but has failed to do most of what people and animals 
+                     do ‘without thinking.' " .
+					 
+This is the hardest step in the path from ANI to ASI , because if we reach AGI caliber , the AGI will reach the point where he can build the ASI by itself .
+Sadly (or hopefully ) we are not so close to getting to caliber 2 , even if we will have the proper hardware . 
+
+Vernor talks about what will happen when we reach singularity , so i will state my opinion regarding the moment when we will have reached AGI caliber :
+at this point , the AI , even though it has "human-like intelligence", it has major advantages (like speed,storage,upgradability , etc). This AI will have to
+ability to self-improve , so it will get to ASI fast . After this will happen , i can only think of something that humans have known for centuries and have 
+exploited to their benefit : with intelligence comes power . We have been using this "rule" to hunt animals that have lower intellects , so what is to say that
+ASI will not do the same to us ? After we will have successfully programmed an AGI capable of self-improvement , we will meet our demise .
+
+
+To sum things up , i do not think we have to ask ourselves "will it happen ?" , but rather "when will it happen ?" ; as for the its consequences , i am not sure
+that we will find a way to harness that power , but we'd better start finding ways to do so . 
+
+
+
